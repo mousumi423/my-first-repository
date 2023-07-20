@@ -1,0 +1,87 @@
+
+.body{
+
+}
+.container{
+    border: 1px solid red;min-height: 50px; display: flex;align-items: center;
+}
+.logo{ display: flex; border: 1px solid green;width: 50%;
+
+}
+.logo img{width: 50px;height: 20px;padding: 15px;display: flex;
+    margin: 20px;
+
+}
+.logo h1{
+    font-size: 30px
+}
+.item{justify-content:  space-between;margin: auto;text-decoration: none;
+
+}
+.item{
+    text-decoration: none;
+}
+.flex{
+    border: 1px;height: 500px;width: 1px;display: flex;margin: 10px;
+}
+.second{
+    display: flex;margin: 30px;
+}
+.goat{
+    color: blueviolet;font-size: xx-large;
+}
+.pink{
+    color:solid palevioletred;
+}
+
+.blue{color: solid blue;
+    
+}
+.container 3 {  
+    display: .flex;
+}
+.img{
+    height: 300px;
+}
+.online{
+    font-size: larger; text-align: center;
+}
+.pinkish{
+    color: solid palevioletred;
+}
+.class{
+    display: flex;margin: 10px 10px 10px 10px;height: 200px;border-spacing: 3px;padding: 0.5px;text-align: center;
+}
+.play{
+    color: solid rgb(216, 112, 147);padding:400px ;
+}
+.p5{
+    text-align: justify;margin-left: ;
+}
+
+.v{
+    display: flex;
+}
+.pg{height: 30px;
+
+}
+.careers{
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
